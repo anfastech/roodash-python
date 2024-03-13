@@ -1,4 +1,4 @@
-Hello Hey THis will be game changing
+Create model with python and deploy with webpage is my hoppy
 
 - [ ] Photo open with cemera - Open CV - python
 - [ ] Take Photo - Open CV - python - webpage
