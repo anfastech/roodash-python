@@ -3,7 +3,7 @@ This project will use `WebRTC` , `Postman`, `MongoDB`, `AWS bucket`
 We use `wen development`, `tailwindcss`, `Python3`
 
 - [X] Photo open with cemera - Open CV - python
-- [X] Take Photo - Open CV - python - webpage
+- [ ] Take Photo - Open CV - python - webpage
 - [ ] model study photo - server
 - [ ] model ( first text - from set of text data to image ) - server
 - [ ] model write about the photo as compliment at first - webpage
